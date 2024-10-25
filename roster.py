@@ -1,7 +1,7 @@
 # File: roster.py
 class Classroom:
     def __init__(self):
-        self.roster = ['student1', 'Nathaniel Brundjar', 'Menashe Kirsch','Mattia Schiavon','Caleb Cukierman', 'Sarah Marsh','Lucas Schefers']  # Initial roster, add your name here
+        self.roster = ['student1', 'Nathaniel Brundjar', 'Menashe Kirsch','Mattia Schiavon','Caleb Cukierman', 'Sarah Marsh','Lucas Schefers', 'Victor Ozzello']  # Initial roster, add your name here
 
     def two_truths_one_lie(self):
         print("Here are two truths and one lie about student1:")
@@ -59,3 +59,8 @@ class Classroom:
         print("2. My dogs name is Francesco")
         print("3. I am 15")
 
+    def two_truths_one_lie_victor(self):
+        print("Here are two truths and one lie about Victor:")
+        print("1. The sky is red")
+        print("2. I have Balkan rage")
+        print("3. I drink still water")
