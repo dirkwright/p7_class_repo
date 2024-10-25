@@ -1,8 +1,12 @@
 # File: roster.py
 class Classroom:
     def __init__(self):
+<<<<<<< HEAD
+        self.roster = ['student1', 'Nathaniel Brundjar', 'Menashe Kirsch','Mattia Schiavon','Caleb Cukierman', 'Sarah Marsh']  # Initial roster, add your name here
+=======
 
         self.roster = ['student1', 'Nathaniel Brundjar', 'Menashe Kirsch','Mattia Schiavon','Ezra Grziwok Dowling','Caleb Cukierman', 'Sarah Marsh','Nathan Cheng']  # Initial roster, add your name here
+>>>>>>> a7861431dcab62ff6211d6fe6929c84c9e5ab509
 
     def two_truths_one_lie(self):
         print("Here are two truths and one lie about student1:")
