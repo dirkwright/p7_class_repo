@@ -93,3 +93,8 @@ class Classroom:
         print("1. I have 2 dogs")
         print("2. I learned how to surf and skateboard")
         print("3. I play basketball")
+    def two_truths_one_lie_Nikhil(self):
+        print("Here are two truths and one lie about Nikhil :") 
+        print("1. I love backpacking.")
+        print("2. I like soccer.")
+        print("3. I am allergic to cats.")
